@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+  }
+#top-buttons {
+    display: inline;
+    text-align:justify;
+}
+#top-buttons .btnTest {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    background-color: rgb(236, 92, 152);
+    margin-left: 33%;
+}
+#top-buttons .navButton {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    background-color: rgb(236, 92, 152);
+    margin-left: 15%;
+}
+
+#top-buttons .test2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    background-color: rgb(236, 92, 152);
+    margin-left: 15%;
+}
+
+#top-buttons * {
+    border-radius: 10px;
+    border-style:hidden;
+    padding: 7px;
+}
+
+.testNav {
+    margin-top: 200%;
+}
+
+.backToTop {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    background-color: rgb(236, 92, 152);
+    border-radius: 10px;
+    border-style:hidden;
+    padding: 7px;
+}
